@@ -1,4 +1,4 @@
 a=19
 d=78
-w=g+d
+w=a+d
 print(w)
